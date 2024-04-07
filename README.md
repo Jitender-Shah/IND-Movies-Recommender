@@ -7,3 +7,7 @@ Allows users to select a movie from a list of available options.
 Recommends a list of movies similar to the selected movie based on collaborative filtering.
 Displays movie posters alongside recommended movies.
 Provides a user-friendly interface using Streamlit
+
+## Credits
+
+The data used in this project was obtained from the [Bollywood Movie Dataset](https://github.com/devensinghbhagtani/Bollywood-Movie-Dataset) created by [Devensingh Bhagtani](https://github.com/devensinghbhagtani). We would like to thank Devensingh Bhagtani for providing this valuable dataset, which has been instrumental in the development of our movie recommender system.
